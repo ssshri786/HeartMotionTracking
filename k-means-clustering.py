@@ -1,4 +1,3 @@
-#Samyak Shrimali, Dr. Rugyoni
 #Heart Modeling, Region-Based Segmentation
 #Notes: 
 # Need to adjust the k to get the desired result and cluster heart wall.
