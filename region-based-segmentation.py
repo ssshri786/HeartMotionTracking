@@ -1,4 +1,3 @@
-#Samyak Shrimali, Dr. Rugyoni
 #Heart Modeling, Region-Based Segmentation
 #Notes: 
 # The snake will converge to the boundary of the object in the image (the heart wall). 
