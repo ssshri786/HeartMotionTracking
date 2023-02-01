@@ -1,4 +1,3 @@
-#Samyak Shrimali, Dr. Rugyoni
 #Heart Modeling, Canny Edge Detection
 #Notes: 
 # Threshold 1 and 2 need to be adjusted to achieve the desired results in detecting the heart wall. 
